@@ -2,7 +2,6 @@ from collections import Counter
 
 
 class SimpleReport():
-
     def oldest_manufacturing_date(list):
         aux_list_date = []
         for product in list:
