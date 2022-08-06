@@ -2,7 +2,7 @@
   Esse projeto foi desenvolvido no curso da Trybe, no módulo de Ciência da Computação.
 
   O objetivo desse projeto é desenvolver um Gerador de Relatórios.<br>
-  Os dados são extraídos de arquivos externos, trabalhados, e então devolvidos em formato de relatórios.
+  Os dados são extraídos de arquivos externos, trabalhados, e então devolvidos em formato de relatórios.<br>
   Também foram feitos testes unitários durante o desenvolvimento do projeto.
 
   As funções de análise de dados e geração de relatórios estão nos diretórios:
